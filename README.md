@@ -21,12 +21,12 @@ This is a simple steganography tool built using Python and the Tkinter library. 
 git clone https://github.com/neerajy0326/stegcode.git
 2. Install pillow:
 
-```bash
+
 pip install pillow
 
 3. Execute:
 
-```bash
+
 python main.py
 
 
