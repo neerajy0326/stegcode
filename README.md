@@ -9,7 +9,7 @@ This is a simple steganography tool built using Python and the Tkinter library. 
 
 ## Prerequisites
 
-- Python 3.x
+- Python 3.9
 - Tkinter (usually included with Python)
 - PIL (Python Imaging Library)
 
@@ -18,5 +18,9 @@ This is a simple steganography tool built using Python and the Tkinter library. 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/steganography-tool.git
+git clone https://github.com/neerajy0326/stegcode.git
+cd stegcode
+pip install pillow
+python main.py
+
 
