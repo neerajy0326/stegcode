@@ -19,6 +19,7 @@ This is a simple steganography tool built using Python and the Tkinter library. 
 
 ```bash
 git clone https://github.com/neerajy0326/stegcode.git
+bash```
 2. Install pillow:
 
 
