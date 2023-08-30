@@ -15,7 +15,7 @@ This is a simple steganography tool built using Python and the Tkinter library. 
 
 ## Usage
 
- Clone the repository:
+Clone the repository:
 
 ```bash
 git clone https://github.com/neerajy0326/stegcode.git
