@@ -1,4 +1,4 @@
-# Steganography Tool
+# StegCode (Steganography Tool)
 
 This is a simple steganography tool built using Python and the Tkinter library. The tool allows you to hide messages within images using the least significant bit (LSB) technique.
 
