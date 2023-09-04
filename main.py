@@ -15,7 +15,7 @@ def encode_image(source_img_path, message,output_img_path):
     message_length = len(bin_message)
    
 
-    
+    # hello i am here now bye bye 
     
     img_width, img_height = source_img.size
     max_message_size = img_width * img_height * 3 // 8  
